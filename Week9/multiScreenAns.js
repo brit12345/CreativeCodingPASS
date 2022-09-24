@@ -73,8 +73,8 @@ function drawBlueScreen(){
   }
 }
 
-//input string as the text to draw on screen in the top right
-//in a small white ractangle
+//input string as the text to draw on screen in the top left
+//in a small white rectangle
 function inputLabel(label){
   fill(256);
   rect(0, 0, 60, 15);
